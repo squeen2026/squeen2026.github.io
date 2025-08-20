@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>My Portfolio</title>
 </head>
 <body>
   <h1>Welcome to My Portfolio</h1>
