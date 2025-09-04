@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
+  
 </head>
 <body>
   <h1>Welcome to My Portfolio</h1>
@@ -15,7 +15,7 @@
   </ul>
 
   <h2>About Me</h2>
-  <img src="https://via.placeholder.com/150" alt="My Headshot">
+  <img src="Headshot1">
   <p>Hello! My name is Sabrina. I’m a data analytics learner passionate about working with data and growing in the tech industry. This site will showcase my projects as I complete them.</p>
 
 <h2 style="text-align: center; margin-top: 40px;">Contact Me</h2>
